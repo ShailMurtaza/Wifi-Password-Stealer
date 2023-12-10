@@ -1,5 +1,6 @@
 # Wifi Password Stealer
 Python Wifi Password Stealer. CREATED BY SHAIL
+![](show.gif)
 <br>
 This program will save saved WiFi passwords of Windows OS in File named <h2><b>window.txt</b></h2>
 <br>
